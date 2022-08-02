@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tH3WcFp26OxIcmmi6Ku0Z9/AbORYQt8WvljrBbAoZuw=",
+  "Source": "AspNetSignalR",
+  "BasePath": "_content/AspNetSignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
